@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Jagtap</h1>
 <h3 align="center">A Junior AI Engineer building RAG-based LLM applications, machine learning models, data pipelines, dashboards, and production-ready analytics solutions</h3>
-<img align="right" alter="coding" width="400" src="https://www.pinterest.com/pin/exploring-ai-loader--18858892183910883/">
+<img align="right" alter="coding" width="400" src="https://i.pinimg.com/originals/a3/6f/62/a36f624c1a112a5ab50d831d633d4073.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashjagtapgithubcom&label=Profile%20views&color=0e75b6&style=flat" alt="yashjagtapgithubcom" /> </p>
 
